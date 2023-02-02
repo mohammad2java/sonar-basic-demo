@@ -8,7 +8,6 @@ public class SonarBasicApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SonarBasicApplication.class, args);
-		new HelloService().hello();
 	}
 
 }
