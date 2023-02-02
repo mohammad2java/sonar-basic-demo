@@ -7,5 +7,9 @@ public class HelloService {
 		System.out.println("1010");
 		return "amir";
 	}
+	public String hello2() {
+		System.out.println("1010");
+		return "amir";
+	}
 
 }
